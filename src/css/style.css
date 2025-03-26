@@ -1,0 +1,25 @@
+body {
+    background-color: var(--light-white);
+    font-family: "Poppins";
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 40rem;
+    margin: auto;
+}
+
+main {
+    background-color: var(--white);
+    border-radius: 15px;
+}
+
+.container-card > .div-image > .image-hero {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.container-card > .info {
+    padding: 2rem 3rem;
+}
