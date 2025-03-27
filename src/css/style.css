@@ -34,3 +34,37 @@ hr {
 .container-card > .info {
     padding: 2rem 3rem;
 }
+
+.container-card > .info > .title {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.container-card > .info > .paragraph {
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+    color: var(--gray);
+}
+
+.container-card > .info > .perfil {
+    display: flex;
+    align-items: center;
+    margin-top: 4rem;
+    gap: 2rem;
+}
+
+.container-card > .info > .perfil .image-perfil {
+    border-radius: 100%;
+    width: 4rem;
+    height: 4rem;
+}
+
+.container-card > .info > .perfil > .informations > .name {
+    font-size: 1.5rem;
+}
+
+.container-card > .info .perfil > .informations .profission {
+    font-size: 1.4rem;
+    color: var(--gray);
+    font-weight: bold;
+}
