@@ -28,6 +28,7 @@ hr {
 .container-card > .div-image > .image-hero {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+    width: 100%;
 }
 
 .container-card > .info {
