@@ -46,7 +46,7 @@ hr {
 }
 
 .container-card > .info {
-    padding: 2rem 3rem;
+    padding: 0 3rem 2rem;
 }
 
 .container-card > .info > .title {
