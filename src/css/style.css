@@ -71,7 +71,7 @@ hr {
     border-radius: 100%;
     width: 4rem;
     height: 4rem;
-    transition: .5s;
+    transition: .3s;
 }
 
 .container-card > .info > .perfil > .image-perfil:hover {
