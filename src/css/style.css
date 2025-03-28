@@ -85,5 +85,5 @@ hr {
 .container-card > .info .perfil > .informations .profission {
     font-size: 1.4rem;
     color: var(--gray);
-    font-weight: bold;
+    font-weight: 500;
 }
