@@ -35,11 +35,12 @@ hr {
     position: relative;
 }
 
-.container-card > .div-image::before {
+.container-card > .div-image::after {
     content: '';
     background-image: url(../img/white-overlay.svg);
     background-repeat: no-repeat;
     position: absolute;
+    right: 0;
     top: 75%;
     width: 100%;
     height: 7rem;
