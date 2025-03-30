@@ -56,7 +56,7 @@ hr {
 
 .container-card > .info > .paragraph {
     margin-top: 1.5rem;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: var(--gray);
 }
 
@@ -79,11 +79,11 @@ hr {
 }
 
 .container-card > .info > .perfil > .informations > .name {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .container-card > .info .perfil > .informations .profission {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: var(--gray);
     font-weight: 500;
 }
