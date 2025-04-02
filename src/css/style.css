@@ -66,7 +66,7 @@ hr {
     display: flex;
     align-items: center;
     margin-top: 4rem;
-    gap: 2rem;
+    gap: 1.5rem;
 }
 
 .container-card > .info > .perfil > .image-perfil {
