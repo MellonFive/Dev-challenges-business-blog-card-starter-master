@@ -14,7 +14,7 @@ main {
     background-color: var(--white);
     border-radius: 15px;
     position: relative;
-    padding-inline: 2%;
+    padding-inline: 3%;
 }
 
 hr {
