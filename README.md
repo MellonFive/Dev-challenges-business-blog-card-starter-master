@@ -21,10 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Business Blog Card é um cartão de visita.
 
-## 📱 Mobile
-
-Ele já está justamente para mobile. 
-
 <p align="center">
   <img alt="projeto DevLinks" src=".github/Preview-mobile.gif" width="100%">
 </p>
