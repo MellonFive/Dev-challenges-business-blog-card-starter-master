@@ -2,9 +2,9 @@ body {
     background-color: var(--light-white);
     font-family: "Poppins";
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
+
     height: 100vh;
     max-width: 35rem;
     margin: auto;
